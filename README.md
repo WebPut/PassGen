@@ -1,4 +1,4 @@
 Password Generator ..... Duh ...
 
 
-Visit: https://webput.github.io/passgen
+Visit:  https://webput.github.io/PassGen/
